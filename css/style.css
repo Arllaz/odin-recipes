@@ -2,5 +2,23 @@ body {
   background-color:rgb(165, 224, 165); 
   color:black;
   font-size: 25px;
+}
+  div {
+  background: pink;
+  width: 500px;
 
+  }
+
+.directions {
+  color: yellow;
+}
+
+.directions,
+.ingredients {
+  background-color: rgb(142, 109, 173);
+}
+
+img {
+  height:auto;
+  width: 500px;
 }

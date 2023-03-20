@@ -1,24 +1,13 @@
+img { 
+    height:auto;
+    width:400px;
+}
+
 body {
-  background-color:rgb(165, 224, 165); 
-  color:black;
-  font-size: 25px;
-}
-  div {
-  background: pink;
-  width: 500px;
-
-  }
-
-.directions {
-  color: yellow;
+    background-color: rgba(238, 217, 147, 0.774);
 }
 
-.directions,
-.ingredients {
-  background-color: rgb(142, 109, 173);
-}
-
-img {
-  height:auto;
-  width: 500px;
+.ingr, .dire {
+    background-color: rgba(56, 119, 56, 0.822);
+    width:450px;
 }
